@@ -1,0 +1,4 @@
+A simple hello world example that uses aspects to add "manners" to methods
+beginning with "say".
+
+Use "gradle run" to see the output.
